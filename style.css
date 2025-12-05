@@ -1,0 +1,17 @@
+h2 {
+    color:black;
+    font-family:'Times New Roman';
+
+}
+
+#results {
+    color:black;
+    border: 1px solid #333;
+    font-family:'Times New Roman';
+    width: 100px;
+    margin-left: 5px;
+}
+
+p {
+    font-family:'Times New Roman';
+}
