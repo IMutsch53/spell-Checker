@@ -1,6 +1,7 @@
-
 <script src="spellChecker.js"></script>
+
 <input id="inputWord" type="text">
-<button onclick="checkSpelling()">Check Word</button>
+
+<button onclick="checkSpelling(document.getElementById('inputWord').value)">Check Word</button>
 
 <div id="results"></div>
